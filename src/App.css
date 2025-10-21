@@ -1,0 +1,13 @@
+.App {
+  text-align: left;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+div {
+  margin-bottom: 15px;
+}
